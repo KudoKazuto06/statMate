@@ -1,0 +1,9 @@
+streamlit
+pandas
+scipy
+numpy
+langchain
+langchain-core
+langchain-ollama
+chromadb
+sentence-transformers
